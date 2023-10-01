@@ -5,7 +5,7 @@ charset-normalizer==3.3.0
 click==8.1.7
 colorama==0.4.6
 fastapi==0.103.2
-filelock==3.12.4
+filelock==3.10.5
 fsspec==2023.9.2
 huggingface-hub==0.17.3
 idna==3.4
