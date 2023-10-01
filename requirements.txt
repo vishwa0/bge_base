@@ -32,7 +32,7 @@ sniffio
 starlette
 sympy
 threadpoolctl
-tokenizers
+tokenizers==0.13.3
 torch
 torchvision
 tqdm
